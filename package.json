@@ -93,7 +93,7 @@
     "lodash": "4.17.15",
     "method-override": "2.3.6",
     "mongojs": "2.4.0",
-    "morgan": "1.7.0",
+    "morgan": "1.9.1",
     "nodemailer": "0.7.1",
     "nodemailer-smtp-transport": "2.7.2",
     "pg": "6.1.0",
