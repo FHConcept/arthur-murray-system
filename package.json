@@ -98,7 +98,7 @@
     "nodemailer-smtp-transport": "2.7.2",
     "pg": "6.1.0",
     "pgtools": "0.2.2",
-    "sequelize": "3.25.0",
+    "sequelize": "6.3.5",
     "serve-favicon": "2.3.2",
     "stripe": "8.19.0"
   },
